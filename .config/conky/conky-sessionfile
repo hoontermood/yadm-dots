@@ -1,0 +1,1 @@
+conky -c /home/dan/.config/conky/ArchLabs.conkyrc &

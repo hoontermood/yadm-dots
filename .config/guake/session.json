@@ -1,0 +1,28 @@
+{
+    "schema_version": 2,
+    "timestamp": 1573417757,
+    "workspace": {
+        "0": [
+            [
+                {
+                    "panes": [
+                        {
+                            "type": "dual_v",
+                            "directory": null
+                        },
+                        {
+                            "type": "term",
+                            "directory": "/home/dan/repos/dotfiles/.config"
+                        },
+                        {
+                            "type": "term",
+                            "directory": "/home/dan/.config/nvim/config"
+                        }
+                    ],
+                    "label": "init.vimrc (~/.config/nvim/config) - NVIM",
+                    "custom_label_set": false
+                }
+            ]
+        ]
+    }
+}
